@@ -1,0 +1,7 @@
+[package]
+name = "solana-sha256-hmac"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-nostd-sha256 = { git = "https://github.com/deanmlittle/solana-nostd-sha256.git" }
